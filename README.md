@@ -3,4 +3,4 @@
 </p>
 
 # AppNativeBot
-Teste criando Bot no Discord.
+Creating Bot on Discord ~
